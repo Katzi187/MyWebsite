@@ -1,0 +1,42 @@
+.Überschrift{
+h1{
+color: darkblue;
+text-align: center;
+}
+p{
+    color: crimson;
+    text-align: center;
+}
+}
+body{
+    background-color: white;
+}
+.Nvidia{
+    p{
+        text-align: right;
+    }
+}
+.Nvidia{
+    position:absolute;
+    margin-right: 25px;
+    top: 18%;
+    right: 3%;
+    color: black;
+}
+.Bildschirm{
+    position:absolute;
+    top: 75%;
+    left: 0,5%;
+}
+.Bildschirm2{
+    position: absolute;
+    top: 75%;
+    right: 3%;
+}
+.border{
+    border: 2px solid black;
+}
+hr{
+    border-width: 3px;
+    border-color:solid black;
+}
